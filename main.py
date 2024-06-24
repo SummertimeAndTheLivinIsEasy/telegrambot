@@ -1,2 +1,2 @@
-print("without .gitignore")
+print("with .gitignore")
 
