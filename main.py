@@ -1,2 +1,2 @@
-print("Why")
+print("without .gitignore")
 
