@@ -1,2 +1,2 @@
-print("Who")
+print("Why")
 
